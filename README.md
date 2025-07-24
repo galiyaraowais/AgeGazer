@@ -2,7 +2,6 @@
 
 AI Age Checker is a computer vision-based project that predicts a person’s age using facial images. It leverages deep learning models trained on facial datasets like UTKFace to estimate age with high accuracy.
 
-![Age Detection Example](example_image.jpg) <!-- Replace with your image if needed -->
 
 ---
 
